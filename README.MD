@@ -17,7 +17,7 @@ TimeMaster is a simple Python script that helps you track your work hours and ma
 pip install openpyxl
 
 
-3. Download the TimeMaster.py script to your local machine.
+3. Download the main.py script to your local machine.
 
 ## Usage
 
